@@ -1,0 +1,33 @@
+.container{
+    width: 950px;
+    margin: auto;
+    background-color: #e6e6fa;
+}
+h1{
+    background-color: #191970;
+    color: #e6e6fa;
+    padding: 40px;
+}
+nav li{
+    margin-right: 5px;
+    display: inline-block;
+}
+nav{
+    margin: 10px;
+}
+h2{
+    text-align: center;
+    color: #191970;
+    background-color: #aeaed4;
+    border-bottom: dashed 3px #191970;
+}
+p, li{
+    color: #191970;
+}
+p{
+    text-indent: 2em;
+}
+footer{
+    text-align: center;
+    padding-bottom: 5px;
+}
